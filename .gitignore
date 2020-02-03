@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 
 # MacOS
+*.csv
+*.xls
+*.xlsx
 .DS_Store
 
 # C extensions
