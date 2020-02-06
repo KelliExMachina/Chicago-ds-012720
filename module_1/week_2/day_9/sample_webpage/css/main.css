@@ -1,0 +1,27 @@
+
+p {
+    font-size: 15px;
+}
+
+#first_p {
+
+    color: red;
+
+}
+
+.not_first_p {
+
+    color: green;
+}
+
+#fourth_p {
+
+    background-color: orange;
+}
+
+.tiny_text {
+    font-size: 5px;
+}
+
+
+
